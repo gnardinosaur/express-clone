@@ -1,0 +1,9 @@
+## Notes 
+
+# tutorial - https://github.com/antsmartian/lets-build-express
+# another resource - http://aosabook.org/en/500L/a-simple-web-server.html
+
+## What I learned 
+
+# exports = module.exports 
+  - https://www.sitepoint.com/understanding-module-exports-exports-node-js/
